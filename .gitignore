@@ -1,0 +1,7 @@
+venv/    # Virtual environment directory
+*.pyc    # Compiled Python files
+__pycache__/    # Python cache directory
+.idea/      # PyCharm/IntelliJ IDEA configuration directory
+lib/      # Third-party libraries or dependencies
+pyvenv.cfg      # Configuration settings specific to the virtual environment
+bin/      # Store executable scripts
