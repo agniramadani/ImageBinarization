@@ -16,7 +16,7 @@ This repository contains an application for image binarization, specifically des
 - Installation
 - Optimizations
 - Used By
-- Authors
+- Author
 - References
 
 
@@ -49,7 +49,7 @@ Unzip the file using the appropriate command:
 ```bash
   unzip dplinknet_weights.zip
 ```
-**Important Note**: Please be aware that in the code, instead of using the name "dplinknet_weights", only "weights" is utilized. It is highly recommended to either rename the file "dplinknet_weights" to "weights" or make the necessary changes within the code.
+**[Important Note]**: Please be aware that in the code, instead of using the name "dplinknet_weights", only "weights" is utilized. It is highly recommended to either rename the file "dplinknet_weights" to "weights" or make the necessary changes within the code.
 
 To rename the file for MacOS or Linux: 
 ```bash
