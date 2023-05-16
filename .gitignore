@@ -5,3 +5,4 @@ __pycache__/    # Python cache directory
 lib/      # Third-party libraries or dependencies
 pyvenv.cfg      # Configuration settings specific to the virtual environment
 bin/      # Store executable scripts
+.git      # Ensure that the Git repository remains intact and doesn't get unintentionally modified
